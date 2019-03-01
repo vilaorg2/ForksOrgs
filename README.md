@@ -5,4 +5,6 @@
 5. accept the PR 
 6. Open and accept another PR that transports the new changes from A into X' master on B 
 7. Issue 1 on B will now say that it was referenced by the PR merge commit on A
-Merge to vilaorg1
+
+Merge to vilaorg first;
+Now merge to vilaorg2
